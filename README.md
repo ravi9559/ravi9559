@@ -1,1 +1,1 @@
-"Passionate Full Stack Web Developer with 4 years of experience in HTML, CSS, JavaScript, React, and WordPress. Creating seamless digital experiences through clean code and creative problem-solving. Enthusiastic about continuous learning and contributing to impactful web projects. Available for collaboration and new opportunities."
+Experienced Full Stack Web Developer | Proficient in HTML, CSS, JavaScript, Node.js, React | WordPress and Shopify expertise | AWS and cloud enthusiast | Seeking to innovate and collaborate on web projects | Continuous learner and problem solver.
