@@ -1,6 +1,1 @@
-const ravi = {
-  code: [ "HTML", "CSS",Javascript"],
-  tools: ["Node.js"]
-  
-};
-console.log("Full Stack Developer")
+"Passionate Full Stack Web Developer with 4 years of experience in HTML, CSS, JavaScript, React, and WordPress. Creating seamless digital experiences through clean code and creative problem-solving. Enthusiastic about continuous learning and contributing to impactful web projects. Available for collaboration and new opportunities."
