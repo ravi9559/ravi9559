@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Bengaluru-based Web Developer who enjoys solving real-world problems through elegant and performance-optimized web experiences. I’ve delivered projects ranging from e-commerce stores to custom tools—while ensuring accessibility, Core Web Vitals, and SEO standards are always met.
+I’m a Web Developer who enjoys solving real-world problems through elegant and performance-optimized web experiences. I’ve delivered projects ranging from e-commerce stores to custom tools—while ensuring accessibility, Core Web Vitals, and SEO standards are always met.
 
 ---
 
@@ -84,10 +84,11 @@ This solution enhanced user experience by providing fast and intuitive ways to d
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ravi-chaudhary-2012)  
-📧 ravi.eng2012@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ravi-chaudhary-2012) [![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)](https://github.com/ravi9559/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/ravichaudhary5636) [![Email](https://img.shields.io/badge/-Email-EA4335?&logo=gmail&logoColor=white)](mailto:ravi.eng2012@gmail.com)
 
----
 
 > *"Build websites for people—not just for search engines or machines."*  
 > — Ravi Chaudhary
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
+</p>
